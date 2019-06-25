@@ -1,0 +1,70 @@
+/*
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Sans HK', sans-serif;
+font-family: 'Tajawal', sans-serif;
+*/
+
+
+.header-image {
+  
+  background-image: url(../images/exhibition/soloExhibition/rusted/img5.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:250px;
+}
+
+.image{
+	margin-left:90px; 
+}
+.main-text{
+	
+	margin:0 auto;
+	margin:50px 100px 50px 100px;
+	
+}
+
+.main-text h1{
+	font-size: 45px;
+	text-align: center;
+	text-decoration: underline;
+	font-family: 'Merriweather', serif;
+}
+.main-text h2{
+	font-size: 30px;
+	text-decoration: underline;
+	
+}
+.main-text h3{
+	font-size: 25px;
+	font-family: 'Dosis', sans-serif;
+
+
+}
+
+
+.main-text .a{
+	font-size: 20px;
+	text-indent: 60px;
+	font-family: 'Tajawal', sans-serif;
+	font-weight: 200;
+
+
+
+}
+.main-text p{
+
+}
+
+
+/*----- footer ------*/
+
+footer div{
+	height:200px;
+	border-top: 1px solid #dcdcdc;
+	background-color: #fffafa;
+	
+}
+
+

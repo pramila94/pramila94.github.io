@@ -1,0 +1,121 @@
+/*
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+*/
+
+*{
+	box-sizing: border-box;
+}
+.clearfix:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+
+
+.header-image{
+  background-image: url(../images/exhibition/soloExhibition/rusted/rust4.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:250px;
+ 
+}
+
+
+/*---------images------------*/
+.images{
+	text-align: center;
+	margin:0px 30px;
+}
+
+.images h1{
+	font-family: 'Merriweather', serif;
+	font-size: 30px;
+	text-decoration: underline;
+	color:#dc143c;
+
+}
+
+.images img{
+	max-width: 100%;
+}
+
+.allimages{
+	margin-bottom: 50px;
+
+}
+
+.image4,.image7,.image10{
+	float:left;
+	width:50%;
+	padding:10px;
+}
+.image5,.image8,.image11{
+	float: left;
+	width:50%;
+	padding:10px;
+}
+
+/*---------gallery images------------*/
+
+.gallery{
+	margin:50px;
+	text-align: center;
+
+	}
+
+.gallery h1{
+	font-size: 50px;
+	font-family: 'Merriweather', serif;
+	text-decoration: underline;
+	color:	#dc143c;
+}
+
+
+.gallery img{
+	
+	padding:10px;
+	filter:grayscale(100%);
+	width:350px;
+	transition: 1s;
+
+	
+}
+
+.gallery img:hover{
+	filter: grayscale(0);
+	transform: scale(1.1);
+}
+
+/*---------footer------------*/
+
+footer div{
+	height:200px;
+	border-top: 1px solid #dcdcdc;
+	background-color: #fffafa;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

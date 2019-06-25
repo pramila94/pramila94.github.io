@@ -1,0 +1,95 @@
+/*
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Sans HK', sans-serif;
+font-family: 'Tajawal', sans-serif;
+*/
+
+*{
+	box-sizing: border-box;
+}
+.clearfix:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+
+.header-image{
+  background-image: url(../images/event/2015/parkartfair2015-img2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:250px;
+ }
+
+/*----- main------*/
+.main{
+	text-align: center;
+}
+.main img{
+	max-width: 100%;
+	margin-bottom: 50px;
+}
+.main h1{
+	text-align: center;
+	margin:50px 0px 50px 0px;
+	text-decoration: underline;
+	color:grey;
+
+}
+
+.main .park h1{
+	font-size: 40px;
+}
+
+.main .artExhibition h1{
+		font-size: 50px;
+}
+
+
+.line{
+	border-top: 2px solid grey;
+}
+
+.link{
+	text-align: center;
+	padding:50px;
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	margin:0px 50px;
+
+
+}
+.link a{
+	text-decoration: none;
+	color:black;
+	font-size: 18px;
+	border:1px solid grey;
+	padding:10px 30px;
+	border-radius: 9px;
+	background-color:red;
+	margin-bottom: 50px;
+	width:200px;
+}
+
+.link a:hover{
+	color:white;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+
+
+
+
+
+/*----- footer ------*/
+
+footer div{
+	height:200px;
+	border-top: 1px solid #dcdcdc;
+	background-color: #fffafa;
+	margin-top: 50px;
+	
+}

@@ -1,0 +1,79 @@
+
+
+/*
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Sans HK', sans-serif;
+font-family: 'Tajawal', sans-serif;
+*/
+
+.header-image{
+  background-image: url(../images/event/2014/whoIsAfraid/redimage.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:250px;
+ 
+}
+
+
+.dotted-line{
+	
+	border-bottom:1px dotted red;
+
+
+}
+
+.line{
+	margin:50px 100px;
+	border:1px solid red;
+}
+.main{
+	text-align: center;
+}
+.main h1{
+	color:	#800000;
+	font-size: 45px;
+	text-decoration: underline;
+}
+
+.main p{
+	font-size: 24px;
+}
+
+
+
+strong{
+	color:red;
+}
+
+.group{
+	margin-top: 80px;
+}
+
+.image{
+	margin:50px 0px;
+}
+.image img{
+	max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*----- footer ------*/
+
+footer div{
+	height:200px;
+	border-top: 1px solid #dcdcdc;
+	background-color: #fffafa;
+	margin-top: 50px;
+	
+}

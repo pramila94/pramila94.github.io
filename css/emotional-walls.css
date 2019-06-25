@@ -1,0 +1,92 @@
+/*
+
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+
+*/
+
+
+
+.header-image {
+  
+  background-image: url(../images/exhibition/soloExhibition/emotionalwalls/img15.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:250px;
+}
+
+.first-image{
+	text-align: center;
+}
+
+.first-image h1{
+	font-family: 'Dosis', sans-serif;
+	color:grey;
+	font-size: 50px;
+}
+
+
+.first-image .line1{
+	border-top:3px solid grey;
+	margin:40px 100px;
+}
+
+.line2{
+	border-top:2px solid grey;
+	margin:40px 150px;
+
+
+}
+.line3{
+	border-top:1px solid grey;
+	margin:40px 200px;
+
+
+}
+
+.first-image img{
+	max-width: 100%;
+	margin-top: 40px;
+}
+
+.gallery{
+	text-align: center;
+	margin:0px 10px 40px 10px;
+
+}
+
+
+#divContainer .imgStyle{
+		height:100px;
+		width:100px;
+		border:3px solid grey;
+		
+
+}
+
+#divContainer{
+	margin:0px 10px;
+
+}
+
+#mainImage{
+ 	max-width: 100%;
+	
+}
+.imgStyle{
+	max-width: 100%;
+}
+
+
+
+footer div{
+	height:200px;
+	border-top: 1px solid #dcdcdc;
+	background-color: #fffafa;
+	
+}
+
+
+
+

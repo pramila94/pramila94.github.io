@@ -1,0 +1,46 @@
+
+
+
+.header-image{
+  background-image: url(../images/workimages/amazonbag/main.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:250px;
+ 
+}
+
+
+
+
+.downheader{
+	padding:50px 50px;
+}
+
+.allimages{
+	text-align: center;
+	margin-top: 40px;
+	
+}
+
+.downheader img{
+	
+	max-width:100%;
+}
+
+.paintimage{	
+	padding-left: 75%
+}
+
+.paintimage p{	
+	font-family:Vollkorn display;
+	font-size:20px;
+
+	
+}
+footer div{
+	height:200px;
+	border-top: 1px solid #dcdcdc;
+	background-color: #fffafa;
+	
+}

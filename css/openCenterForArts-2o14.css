@@ -1,0 +1,113 @@
+
+
+
+
+/*
+font-family: 'Dosis', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Noto Sans HK', sans-serif;
+font-family: 'Tajawal', sans-serif;
+*/
+
+/*-------text-------------*/
+
+
+
+.header-image {
+  background-image: url(../images/event/2014/openCenterForArts/img2.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:250px;
+}
+
+
+
+.main{
+	margin-left:100px;
+}
+.main h1,h2{
+	font-style: italic;
+	color:grey;
+}
+
+.main h1{
+	font-size: 50px;
+	margin-bottom: 0px;
+}
+.main p{
+	font-size: 24px;
+
+}
+.first h2{
+	margin-bottom: 0px;
+	font-size: 40px;
+}
+
+.para{
+	font-style: italic;
+	margin:20px 0px;
+	font-family: 'Dosis', sans-serif;
+}
+
+strong{
+	color:grey;
+	font-size: 28px;
+}
+
+.main a:hover{
+	color:red;
+}
+
+/*--------images-----------*/
+
+.image{
+	text-align: center;
+	margin:50px;
+}
+.image img{
+	max-width: 100%;
+}
+.image div{
+	color:grey;
+}
+
+.line{
+	border:1px solid grey;
+	text-align:center;
+	padding:60px 0px; 
+}
+
+.line a{
+	text-decoration: none;
+	color:black;
+	font-size: 22px;
+	border:1px solid grey;
+	padding:10px 30px;
+	border-radius: 9px;
+	background-color:red;
+	margin-bottom: 50px;
+	width:200px;
+}
+
+
+.line a:hover{
+	color:blue;
+	text-decoration: underline;
+}
+
+
+
+/*----- footer ------*/
+
+footer div{
+	height:200px;
+	border-top: 1px solid #dcdcdc;
+	background-color: #fffafa;
+	margin-top: 50px;
+	
+}
+
+
+
+

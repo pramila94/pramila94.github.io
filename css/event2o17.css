@@ -1,0 +1,45 @@
+
+
+/*
+
+.header-image {
+  
+  background-image: url(../images/press/background.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:250px;
+}
+
+*/
+
+.header-image {
+	background-color: 	#5f9ea0;
+}
+
+
+
+
+.main{
+	text-align: center;
+}
+
+.main img{
+	max-width: 100%;
+	margin-top: 50px;
+}
+
+.line{
+	border-bottom: 2px solid grey;
+	margin:50px  100px 0px 100px;
+
+}
+
+
+footer div{
+	height:200px;
+	border-top: 1px solid #dcdcdc;
+	background-color: #fffafa;
+	
+}
+
